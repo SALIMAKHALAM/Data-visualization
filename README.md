@@ -68,10 +68,5 @@ The goal is to:
 
 ---
 
-## 📬 Contact
 
-If you liked this project or want to collaborate, feel free to connect!
-
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [your LinkedIn profile]
 
